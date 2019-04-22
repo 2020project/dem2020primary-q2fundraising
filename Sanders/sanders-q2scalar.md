@@ -13,8 +13,8 @@ How much money will Bernie Sanders raise for his Presidential campaign in the up
 | **Market Type**            | Scalar              |
 | **Range - Low**          | $0.00               |
 | **Range - High**           | $30,000,000.00      |
-| **Market Expiration Date** | July 20, 2019       |
-| **Market Expiration Time** | 11:55 PM (UTC)      |
+| **Market Expiration Date** | July 19, 2019       |
+| **Market Expiration Time** | 11:30 PM (UTC)      |
 | **Time Zone**              | Etc/UTC (GMT-00:00) |
 | **Resolution Source**      | General Knowledge   |
 
