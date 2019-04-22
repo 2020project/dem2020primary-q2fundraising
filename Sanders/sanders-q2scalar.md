@@ -52,6 +52,6 @@ Location on Form 3P: Summary page -> Line 17 -> (e) Total Contributions -> Colum
 
 ## Reference
 
-[Our guide to Understanding Federal Election Commission reporting](https://github.com/2020project/dem2020primary-q2fundraising/blob/master/FECreports.md)
+[Our guide to Understanding Federal Election Commission reporting](https://github.com/2020project/dem2020primary-q2fundraising/tree/master/FECreference)
 
 Additional information about this market can be found at https://github.com/2020project/dem2020primary-q2fundraising/blob/master/Sanders/sanders-q2scalar.md
