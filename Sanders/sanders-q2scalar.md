@@ -24,7 +24,7 @@ How much money will Bernie Sanders raise for his Presidential campaign in the up
 
 This scalar market pertains to the amount of money, in USD, that Bernie Sanders’ official presidential campaign committee (“Bernie 2020”) will raise in the second fundraising quarter of 2019. This market only measures the total amount raised in this quarter, NOT the cumulative amount raise or cash on hand.
 
-The July reporting period begins on April 1, 2019 and books close on June 30, 2019. The official number will be reported to the Federal Election Commission (FEC.gov) on or before the filing deadline of July 15, 2019 and is expected to appear on FEC Form 3P under the line titled “Total Contributions” (further details below).
+The July reporting period begins on April 1, 2019 and books close on June 30, 2019. The official number is expected to be reported to the Federal Election Commission (FEC.gov) on or before the filing deadline of July 15, 2019 and is expected to appear on FEC Form 3P under the line titled “Total Contributions” (further details below).
 
 **Federal Election Commission Information**
 
